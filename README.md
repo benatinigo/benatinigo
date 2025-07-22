@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beñat Iñigo Lizaso</h1>
-<h3 align="center">Passionate for robotics, electronics and computer vision</h3>
+<h3 align="center">Passionate for electronics, robotics and computer vision</h3>
 
 - 🔭 I’m currently working on **Pose estimation with event cameras**
 
